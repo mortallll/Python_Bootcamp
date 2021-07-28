@@ -3,109 +3,95 @@ Python_Bootcamp - Upskill
 
 
 
+15 Day Python Bootcamp
 
+------
+
+Mentors :
+
+- **Sakalya Mitra**
+
+  [Student at VIT Bhopal pursuing Computer Science]
+
+- **Priya Sharma**
+
+  [B.Tech in Comp. Sci. Artificial Intelligence (CSAI) from IGDTUW]
+
+- **Pragya**
+
+  [Student at IGDTUW]
+
+
+
+Moderators:
+
+- **Harshitha Reddy**
+- **Aarya Patil**
+
+------
+
+###### Mentors info:
+
+**[<>] Sakalya Mitra**
 
 Hello Everyone,
 Myself Sakalya Mitra  and I am a Student at VIT Bhopal pursuing Computer Science. I will be your mentor for this Python bootcamp along with two other mentors.
 
 
 
+**[<>] Priya Sharma**
+
 Good afternoon! I am Priya Sharma. Currently pursuing B.Tech in Comp. Sci. Artificial Intelligence (CSAI) from IGDTUW. Looking forward to interact with you all on 12th! ✌️
 
 
 
+**[<>] Pragya**
+
 Hello everyone, Pragya here from IGDTUW. I will be one of your mentors and I'm looking forward to meeting you all! 🌟
 
+------
 
+**Software and Tool :**
 
-🛑 Important 🛑
+- Python IDLE
 
--people who have filled the registration form will be eligible only 
+-  Pycharm 
 
-- we have a 100% attendance criteria for certification and other resources
+- Jupyter
 
-- make sure you read/understand the insttuctions as it is important.
+- Google colab
 
--we will be having 2 batches , your allottments will be given out soon. 
+   
 
--mentors: @Sakalya @Pragya Khanna @Not Priya 
+Here are some videos for your reference as well: 
 
--moderators: @Upskill Harshitha Reddy 
+**Jupyter notebook:** https://youtu.be/otmWEEFysms
 
-If you have any doubt you can connect with the team(admins)
-
-
-
-
-
-The above are installation guides for IDLE, pycharm and Jupyter. Here are some videos for your reference as well: 
-Jupyter notebook: https://youtu.be/otmWEEFysms
-Pycharm/IDLE: https://youtu.be/MoeQlmeJnPg
-
-It is totally optional to download any of the above as classes would be conducted via colab and we would help you with it's interface.
-
-If you decide to download and end up facing any issue, please feel free to ask in the upcoming class.
+**Pycharm/IDLE:** https://youtu.be/MoeQlmeJnPg
 
 
 
+It is totally optional to download any of the above...
+
+------
+
+##### Two Projects 
+
+- [ ] Minesweeper Project
+- [ ] Whatsapp Automation
+
+------
+
+##### Bootcamp Curriculum
 
 
-Hello everyone,
-Myself and @Upskill Aarya Patil will be your moderators during the bootcamp. So feel free to ask us your queries during the bootcamp!
-
-
-
-IMP: Attendance link will be available for 15mins only.
-
-
-
-Batch 1
- Link: https://meet.google.com/zuh-yiup-yte
-
-
-📌Today we will be learning:
 
 Introduction to Python and Coding Platform. Writing your first Python Program
 
-Note: join 5 minutes prior  to avoid any delay. 
-No late comers will be entertained.
-
-Do join your respective batch meet only.
 
 
+**Important Links for Project:**
 
-
-
-Batch 2
- Link: https://meet.google.com/jrd-wfns-isx
-
-
-📌Today we will be learning:
-
-Introduction to Python and Coding Platform. Writing your first Python Program
-
-Note: join 5 minutes prior  to avoid any delay. 
-No late comers will be enteratined.
-
-Do join your respective batch meet only.
-
-
-
-
-
-
-
-
-
-https://pypi.org/project/selenium/
-
-
-
-https://chromedriver.storage.googleapis.com/index.html?path=91.0.4472.101/
-
-
-
-https://chromedriver.chromium.org/
-
-
-
+- [ ] https://pypi.org/project/selenium/
+- [ ] https://chromedriver.storage.googleapis.com/index.html?path=91.0.4472.101/
+- [ ] https://chromedriver.chromium.org/
