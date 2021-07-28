@@ -78,7 +78,7 @@ It is totally optional to download any of the above...
 ##### Two Projects 
 
 - [ ] Minesweeper Project
-- [ ] Whatsapp Automation
+- [ ] Whatsapp Automation Project
 
 ------
 
